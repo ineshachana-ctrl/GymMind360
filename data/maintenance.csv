@@ -1,0 +1,288 @@
+maintenance_id,equipment_id,date,maintenance_type,cost,downtime_hours,description
+MT00001,EQ-TR-02,2024-11-08,Repair,338.35,61.0,Display failure
+MT00002,EQ-BP-02,2024-11-09,Preventive,13.49,2.1,Scheduled inspection & lubrication
+MT00003,EQ-SC-02,2024-11-14,Preventive,92.58,2.6,Scheduled inspection & lubrication
+MT00004,EQ-SB-02,2024-11-17,Preventive,30.53,1.6,Scheduled inspection & lubrication
+MT00005,EQ-EL-01,2024-11-19,Preventive,41.11,2.3,Scheduled inspection & lubrication
+MT00006,EQ-TR-04,2024-11-21,Preventive,81.64,1.9,Scheduled inspection & lubrication
+MT00007,EQ-LP-01,2024-11-24,Repair,190.66,17.9,Bearing noise
+MT00008,EQ-EL-03,2024-11-27,Preventive,40.72,1.8,Scheduled inspection & lubrication
+MT00009,EQ-LT-02,2024-11-27,Preventive,63.32,1.5,Scheduled inspection & lubrication
+MT00010,EQ-SB-03,2024-12-04,Preventive,28.77,2.0,Scheduled inspection & lubrication
+MT00011,EQ-SC-02,2024-12-05,Repair,364.9,10.2,Display failure
+MT00012,EQ-SB-01,2024-12-06,Preventive,40.99,2.7,Scheduled inspection & lubrication
+MT00013,EQ-SM-01,2024-12-07,Preventive,53.52,1.5,Scheduled inspection & lubrication
+MT00014,EQ-SB-04,2024-12-08,Preventive,44.04,1.0,Scheduled inspection & lubrication
+MT00015,EQ-TR-02,2024-12-13,Preventive,116.09,2.0,Scheduled inspection & lubrication
+MT00016,EQ-RM-01,2024-12-14,Repair,121.6,34.0,Sensor calibration
+MT00017,EQ-RM-03,2024-12-23,Repair,94.42,40.5,Cable wear
+MT00018,EQ-EL-01,2024-12-23,Repair,113.56,39.4,Motor fault
+MT00019,EQ-DB-02,2024-12-26,Preventive,72.96,2.6,Scheduled inspection & lubrication
+MT00020,EQ-LC-01,2025-01-05,Preventive,67.19,1.5,Scheduled inspection & lubrication
+MT00021,EQ-TR-01,2025-01-05,Preventive,151.2,2.4,Scheduled inspection & lubrication
+MT00022,EQ-SB-05,2025-01-08,Preventive,44.54,1.7,Scheduled inspection & lubrication
+MT00023,EQ-EL-02,2025-01-08,Preventive,49.51,2.7,Scheduled inspection & lubrication
+MT00024,EQ-LT-01,2025-01-10,Preventive,43.36,2.5,Scheduled inspection & lubrication
+MT00025,EQ-TR-05,2025-01-11,Preventive,135.06,2.1,Scheduled inspection & lubrication
+MT00026,EQ-TR-03,2025-01-11,Preventive,147.21,1.9,Scheduled inspection & lubrication
+MT00027,EQ-TR-02,2025-01-14,Repair,475.81,33.5,Sensor calibration
+MT00028,EQ-EL-03,2025-01-15,Repair,272.0,49.1,Motor fault
+MT00029,EQ-CP-01,2025-01-15,Preventive,62.48,2.7,Scheduled inspection & lubrication
+MT00030,EQ-SC-01,2025-01-18,Preventive,62.3,1.1,Scheduled inspection & lubrication
+MT00031,EQ-BP-01,2025-01-20,Preventive,20.67,2.3,Scheduled inspection & lubrication
+MT00032,EQ-TR-06,2025-01-25,Preventive,119.38,2.4,Scheduled inspection & lubrication
+MT00033,EQ-RM-02,2025-01-25,Preventive,32.12,2.3,Scheduled inspection & lubrication
+MT00034,EQ-CC-02,2025-01-29,Preventive,98.71,1.1,Scheduled inspection & lubrication
+MT00035,EQ-CC-01,2025-02-04,Preventive,80.39,1.1,Scheduled inspection & lubrication
+MT00036,EQ-SB-02,2025-02-06,Preventive,41.96,1.3,Scheduled inspection & lubrication
+MT00037,EQ-LP-02,2025-02-08,Preventive,72.78,2.1,Scheduled inspection & lubrication
+MT00038,EQ-LP-01,2025-02-09,Preventive,85.92,1.8,Scheduled inspection & lubrication
+MT00039,EQ-RM-03,2025-02-11,Preventive,21.96,2.1,Scheduled inspection & lubrication
+MT00040,EQ-EL-01,2025-02-13,Preventive,39.94,2.3,Scheduled inspection & lubrication
+MT00041,EQ-SC-02,2025-02-14,Preventive,116.8,1.5,Scheduled inspection & lubrication
+MT00042,EQ-TR-04,2025-02-15,Preventive,107.73,2.2,Scheduled inspection & lubrication
+MT00043,EQ-SQ-03,2025-02-16,Preventive,25.48,2.5,Scheduled inspection & lubrication
+MT00044,EQ-TR-02,2025-02-18,Repair,201.85,53.7,Cable wear
+MT00045,EQ-RM-01,2025-02-20,Preventive,18.77,1.5,Scheduled inspection & lubrication
+MT00046,EQ-EL-03,2025-02-25,Preventive,65.28,1.4,Scheduled inspection & lubrication
+MT00047,EQ-DB-01,2025-02-26,Preventive,62.94,2.1,Scheduled inspection & lubrication
+MT00048,EQ-SB-04,2025-02-27,Preventive,29.95,1.6,Scheduled inspection & lubrication
+MT00049,EQ-SQ-01,2025-02-27,Preventive,30.14,2.7,Scheduled inspection & lubrication
+MT00050,EQ-RM-03,2025-03-02,Repair,57.13,71.9,Display failure
+MT00051,EQ-TR-02,2025-03-04,Preventive,155.76,2.0,Scheduled inspection & lubrication
+MT00052,EQ-BP-03,2025-03-06,Preventive,12.13,1.1,Scheduled inspection & lubrication
+MT00053,EQ-SB-03,2025-03-11,Preventive,42.3,2.9,Scheduled inspection & lubrication
+MT00054,EQ-SB-01,2025-03-13,Preventive,36.6,2.1,Scheduled inspection & lubrication
+MT00055,EQ-SQ-02,2025-03-16,Preventive,34.7,1.4,Scheduled inspection & lubrication
+MT00056,EQ-TR-02,2025-03-23,Repair,476.79,62.6,Bearing noise
+MT00057,EQ-SB-05,2025-03-30,Preventive,23.96,1.6,Scheduled inspection & lubrication
+MT00058,EQ-TR-03,2025-04-03,Preventive,152.2,1.2,Scheduled inspection & lubrication
+MT00059,EQ-SM-01,2025-04-04,Preventive,87.78,1.7,Scheduled inspection & lubrication
+MT00060,EQ-LT-02,2025-04-04,Preventive,61.61,1.4,Scheduled inspection & lubrication
+MT00061,EQ-TR-01,2025-04-10,Preventive,80.57,2.5,Scheduled inspection & lubrication
+MT00062,EQ-EL-02,2025-04-13,Preventive,68.2,2.3,Scheduled inspection & lubrication
+MT00063,EQ-TR-02,2025-04-13,Repair,491.75,41.9,Cable wear
+MT00064,EQ-TR-06,2025-04-15,Repair,307.06,15.3,Bearing noise
+MT00065,EQ-TR-05,2025-04-20,Preventive,109.6,2.9,Scheduled inspection & lubrication
+MT00066,EQ-TR-06,2025-04-22,Preventive,153.73,2.2,Scheduled inspection & lubrication
+MT00067,EQ-SC-01,2025-04-26,Preventive,118.01,2.6,Scheduled inspection & lubrication
+MT00068,EQ-BR-01,2025-05-01,Preventive,4.22,1.9,Scheduled inspection & lubrication
+MT00069,EQ-CP-01,2025-05-05,Preventive,57.25,2.0,Scheduled inspection & lubrication
+MT00070,EQ-LT-01,2025-05-07,Preventive,59.35,2.5,Scheduled inspection & lubrication
+MT00071,EQ-EL-01,2025-05-09,Preventive,43.36,2.3,Scheduled inspection & lubrication
+MT00072,EQ-BP-02,2025-05-12,Preventive,14.59,1.5,Scheduled inspection & lubrication
+MT00073,EQ-LC-01,2025-05-15,Preventive,43.56,1.6,Scheduled inspection & lubrication
+MT00074,EQ-TR-04,2025-05-16,Preventive,113.17,2.4,Scheduled inspection & lubrication
+MT00075,EQ-SB-02,2025-05-16,Preventive,28.83,2.7,Scheduled inspection & lubrication
+MT00076,EQ-SC-02,2025-05-20,Preventive,66.67,2.3,Scheduled inspection & lubrication
+MT00077,EQ-TR-02,2025-05-20,Repair,445.98,22.5,Cable wear
+MT00078,EQ-SB-04,2025-05-21,Preventive,35.15,2.6,Scheduled inspection & lubrication
+MT00079,EQ-CC-02,2025-05-21,Preventive,62.85,1.5,Scheduled inspection & lubrication
+MT00080,EQ-RM-02,2025-05-25,Preventive,18.02,2.3,Scheduled inspection & lubrication
+MT00081,EQ-CC-01,2025-05-25,Preventive,82.81,2.6,Scheduled inspection & lubrication
+MT00082,EQ-EL-03,2025-05-25,Preventive,49.24,1.1,Scheduled inspection & lubrication
+MT00083,EQ-EL-01,2025-06-01,Repair,228.49,71.8,Sensor calibration
+MT00084,EQ-LP-02,2025-06-03,Preventive,64.26,1.1,Scheduled inspection & lubrication
+MT00085,EQ-TR-02,2025-06-04,Preventive,118.35,2.8,Scheduled inspection & lubrication
+MT00086,EQ-KB-01,2025-06-09,Preventive,21.42,1.8,Scheduled inspection & lubrication
+MT00087,EQ-SB-03,2025-06-13,Preventive,41.9,2.1,Scheduled inspection & lubrication
+MT00088,EQ-LP-01,2025-06-14,Preventive,80.99,2.3,Scheduled inspection & lubrication
+MT00089,EQ-RM-03,2025-06-20,Preventive,26.76,2.9,Scheduled inspection & lubrication
+MT00090,EQ-SB-01,2025-06-21,Preventive,36.77,1.9,Scheduled inspection & lubrication
+MT00091,EQ-DB-02,2025-06-22,Preventive,42.14,1.2,Scheduled inspection & lubrication
+MT00092,EQ-RM-01,2025-06-26,Preventive,18.0,2.2,Scheduled inspection & lubrication
+MT00093,EQ-TR-02,2025-06-27,Repair,202.99,30.6,Belt replacement
+MT00094,EQ-TR-02,2025-07-04,Repair,539.99,15.2,Display failure
+MT00095,EQ-EL-02,2025-07-06,Preventive,48.07,1.1,Scheduled inspection & lubrication
+MT00096,EQ-SB-05,2025-07-07,Preventive,35.16,2.7,Scheduled inspection & lubrication
+MT00097,EQ-TR-03,2025-07-12,Preventive,128.31,2.7,Scheduled inspection & lubrication
+MT00098,EQ-TR-01,2025-07-13,Preventive,152.92,1.9,Scheduled inspection & lubrication
+MT00099,EQ-BP-01,2025-07-21,Preventive,12.12,1.6,Scheduled inspection & lubrication
+MT00100,EQ-TR-05,2025-07-27,Preventive,105.96,1.9,Scheduled inspection & lubrication
+MT00101,EQ-TR-06,2025-07-29,Preventive,142.78,2.9,Scheduled inspection & lubrication
+MT00102,EQ-SC-01,2025-07-31,Preventive,90.04,1.0,Scheduled inspection & lubrication
+MT00103,EQ-LT-01,2025-08-01,Repair,78.98,19.3,Belt replacement
+MT00104,EQ-RM-02,2025-08-04,Repair,120.53,32.8,Sensor calibration
+MT00105,EQ-LP-02,2025-08-04,Repair,216.18,11.1,Bearing noise
+MT00106,EQ-EL-03,2025-08-04,Repair,285.41,40.3,Display failure
+MT00107,EQ-SQ-03,2025-08-06,Preventive,39.58,1.4,Scheduled inspection & lubrication
+MT00108,EQ-SM-01,2025-08-08,Preventive,49.14,2.7,Scheduled inspection & lubrication
+MT00109,EQ-SB-02,2025-08-10,Preventive,39.02,1.9,Scheduled inspection & lubrication
+MT00110,EQ-SC-02,2025-08-12,Preventive,64.35,2.8,Scheduled inspection & lubrication
+MT00111,EQ-LT-02,2025-08-12,Preventive,47.46,2.1,Scheduled inspection & lubrication
+MT00112,EQ-SB-04,2025-08-14,Preventive,31.57,1.1,Scheduled inspection & lubrication
+MT00113,EQ-EL-01,2025-08-16,Preventive,59.67,2.7,Scheduled inspection & lubrication
+MT00114,EQ-TR-04,2025-08-18,Preventive,97.1,1.5,Scheduled inspection & lubrication
+MT00115,EQ-DB-01,2025-08-21,Preventive,48.93,2.4,Scheduled inspection & lubrication
+MT00116,EQ-EL-03,2025-08-23,Preventive,69.35,1.4,Scheduled inspection & lubrication
+MT00117,EQ-SQ-01,2025-08-24,Preventive,22.77,2.6,Scheduled inspection & lubrication
+MT00118,EQ-BP-03,2025-08-27,Preventive,16.67,2.9,Scheduled inspection & lubrication
+MT00119,EQ-LC-01,2025-09-02,Preventive,52.97,2.4,Scheduled inspection & lubrication
+MT00120,EQ-SQ-02,2025-09-04,Preventive,27.96,1.4,Scheduled inspection & lubrication
+MT00121,EQ-TR-02,2025-09-06,Preventive,134.13,2.5,Scheduled inspection & lubrication
+MT00122,EQ-TR-02,2025-09-07,Repair,431.89,27.9,Bearing noise
+MT00123,EQ-CP-01,2025-09-11,Preventive,39.91,2.8,Scheduled inspection & lubrication
+MT00124,EQ-SB-01,2025-09-12,Preventive,39.79,2.5,Scheduled inspection & lubrication
+MT00125,EQ-LT-01,2025-09-14,Preventive,43.68,2.6,Scheduled inspection & lubrication
+MT00126,EQ-DB-01,2025-09-18,Repair,205.91,32.6,Bearing noise
+MT00127,EQ-TR-01,2025-09-18,Repair,268.2,70.4,Cable wear
+MT00128,EQ-SB-03,2025-09-18,Preventive,23.53,1.3,Scheduled inspection & lubrication
+MT00129,EQ-RM-02,2025-09-22,Preventive,30.29,2.4,Scheduled inspection & lubrication
+MT00130,EQ-CC-02,2025-09-23,Preventive,69.79,1.6,Scheduled inspection & lubrication
+MT00131,EQ-LP-02,2025-09-27,Preventive,87.25,2.3,Scheduled inspection & lubrication
+MT00132,EQ-KB-01,2025-09-27,Repair,77.32,61.2,Display failure
+MT00133,EQ-TR-06,2025-09-28,Repair,255.45,9.2,Bearing noise
+MT00134,EQ-CC-01,2025-09-29,Preventive,93.51,1.2,Scheduled inspection & lubrication
+MT00135,EQ-TR-02,2025-09-30,Repair,423.57,52.3,Bearing noise
+MT00136,EQ-LP-01,2025-10-05,Preventive,59.51,1.3,Scheduled inspection & lubrication
+MT00137,EQ-SB-05,2025-10-07,Preventive,23.36,1.7,Scheduled inspection & lubrication
+MT00138,EQ-EL-02,2025-10-08,Preventive,65.01,2.9,Scheduled inspection & lubrication
+MT00139,EQ-RM-03,2025-10-10,Preventive,27.47,2.7,Scheduled inspection & lubrication
+MT00140,EQ-RM-03,2025-10-11,Repair,97.24,63.9,Sensor calibration
+MT00141,EQ-EL-03,2025-10-11,Repair,201.59,31.7,Motor fault
+MT00142,EQ-TR-01,2025-10-12,Preventive,159.83,2.6,Scheduled inspection & lubrication
+MT00143,EQ-TR-02,2025-10-13,Repair,394.42,21.1,Bearing noise
+MT00144,EQ-TR-03,2025-10-13,Preventive,92.94,2.5,Scheduled inspection & lubrication
+MT00145,EQ-RM-01,2025-10-18,Preventive,26.4,1.7,Scheduled inspection & lubrication
+MT00146,EQ-SB-01,2025-10-27,Repair,115.57,56.8,Motor fault
+MT00147,EQ-BP-02,2025-11-02,Preventive,16.44,2.3,Scheduled inspection & lubrication
+MT00148,EQ-TR-05,2025-11-04,Preventive,83.26,2.9,Scheduled inspection & lubrication
+MT00149,EQ-SB-02,2025-11-04,Preventive,25.79,2.1,Scheduled inspection & lubrication
+MT00150,EQ-TR-06,2025-11-05,Preventive,88.02,1.4,Scheduled inspection & lubrication
+MT00151,EQ-SC-01,2025-11-06,Preventive,94.71,1.5,Scheduled inspection & lubrication
+MT00152,EQ-TR-04,2025-11-10,Preventive,103.98,2.3,Scheduled inspection & lubrication
+MT00153,EQ-SB-04,2025-11-14,Preventive,33.29,2.3,Scheduled inspection & lubrication
+MT00154,EQ-EL-01,2025-11-18,Preventive,48.21,1.5,Scheduled inspection & lubrication
+MT00155,EQ-SC-02,2025-11-20,Preventive,69.28,1.7,Scheduled inspection & lubrication
+MT00156,EQ-EL-03,2025-11-24,Preventive,44.19,3.0,Scheduled inspection & lubrication
+MT00157,EQ-TR-02,2025-12-06,Repair,204.86,51.4,Cable wear
+MT00158,EQ-SQ-03,2025-12-08,Repair,116.78,48.9,Cable wear
+MT00159,EQ-TR-02,2025-12-09,Preventive,123.14,1.3,Scheduled inspection & lubrication
+MT00160,EQ-SM-01,2025-12-13,Preventive,95.65,2.1,Scheduled inspection & lubrication
+MT00161,EQ-LT-02,2025-12-15,Preventive,43.95,2.6,Scheduled inspection & lubrication
+MT00162,EQ-SB-01,2025-12-21,Preventive,34.22,3.0,Scheduled inspection & lubrication
+MT00163,EQ-TR-02,2025-12-22,Repair,328.1,69.0,Sensor calibration
+MT00164,EQ-RM-03,2025-12-23,Repair,88.15,27.7,Motor fault
+MT00165,EQ-SB-03,2025-12-25,Preventive,31.66,2.9,Scheduled inspection & lubrication
+MT00166,EQ-DB-02,2025-12-27,Preventive,51.2,2.5,Scheduled inspection & lubrication
+MT00167,EQ-LC-01,2026-01-02,Preventive,39.19,2.0,Scheduled inspection & lubrication
+MT00168,EQ-SB-05,2026-01-05,Preventive,42.76,2.8,Scheduled inspection & lubrication
+MT00169,EQ-EL-02,2026-01-11,Preventive,60.88,1.3,Scheduled inspection & lubrication
+MT00170,EQ-LT-01,2026-01-15,Preventive,60.44,1.1,Scheduled inspection & lubrication
+MT00171,EQ-CP-01,2026-01-16,Preventive,60.87,1.6,Scheduled inspection & lubrication
+MT00172,EQ-TR-01,2026-01-17,Preventive,154.23,1.2,Scheduled inspection & lubrication
+MT00173,EQ-TR-03,2026-01-17,Preventive,128.28,1.3,Scheduled inspection & lubrication
+MT00174,EQ-BP-01,2026-01-19,Preventive,12.26,1.7,Scheduled inspection & lubrication
+MT00175,EQ-TR-06,2026-01-25,Preventive,87.45,1.3,Scheduled inspection & lubrication
+MT00176,EQ-CC-01,2026-01-25,Preventive,95.65,1.9,Scheduled inspection & lubrication
+MT00177,EQ-RM-02,2026-01-25,Preventive,34.8,1.9,Scheduled inspection & lubrication
+MT00178,EQ-SB-02,2026-01-25,Preventive,39.19,1.8,Scheduled inspection & lubrication
+MT00179,EQ-LP-02,2026-01-27,Preventive,84.57,2.2,Scheduled inspection & lubrication
+MT00180,EQ-TR-04,2026-01-29,Preventive,129.19,1.4,Scheduled inspection & lubrication
+MT00181,EQ-CC-02,2026-01-29,Preventive,71.07,2.9,Scheduled inspection & lubrication
+MT00182,EQ-TR-02,2026-01-31,Repair,246.97,31.5,Display failure
+MT00183,EQ-TR-05,2026-02-04,Preventive,152.2,2.0,Scheduled inspection & lubrication
+MT00184,EQ-KB-01,2026-02-04,Repair,70.49,43.0,Bearing noise
+MT00185,EQ-SB-04,2026-02-04,Preventive,36.88,1.4,Scheduled inspection & lubrication
+MT00186,EQ-RM-01,2026-02-05,Preventive,31.76,2.9,Scheduled inspection & lubrication
+MT00187,EQ-SC-01,2026-02-06,Preventive,79.41,2.7,Scheduled inspection & lubrication
+MT00188,EQ-RM-03,2026-02-07,Preventive,23.73,1.3,Scheduled inspection & lubrication
+MT00189,EQ-LP-01,2026-02-08,Preventive,86.04,2.0,Scheduled inspection & lubrication
+MT00190,EQ-SQ-03,2026-02-10,Preventive,31.38,1.4,Scheduled inspection & lubrication
+MT00191,EQ-EL-01,2026-02-10,Preventive,55.41,1.9,Scheduled inspection & lubrication
+MT00192,EQ-SC-02,2026-02-10,Preventive,90.94,1.7,Scheduled inspection & lubrication
+MT00193,EQ-EL-03,2026-02-13,Preventive,76.78,2.4,Scheduled inspection & lubrication
+MT00194,EQ-SQ-01,2026-02-19,Preventive,36.37,1.7,Scheduled inspection & lubrication
+MT00195,EQ-DB-01,2026-02-21,Preventive,75.19,2.1,Scheduled inspection & lubrication
+MT00196,EQ-BP-03,2026-02-22,Preventive,20.43,2.4,Scheduled inspection & lubrication
+MT00197,EQ-EL-01,2026-03-02,Repair,193.42,12.8,Display failure
+MT00198,EQ-TR-02,2026-03-05,Repair,231.94,40.9,Belt replacement
+MT00199,EQ-SQ-02,2026-03-07,Preventive,36.4,1.1,Scheduled inspection & lubrication
+MT00200,EQ-TR-02,2026-03-13,Preventive,147.35,2.8,Scheduled inspection & lubrication
+MT00201,EQ-SB-03,2026-03-22,Preventive,29.49,2.7,Scheduled inspection & lubrication
+MT00202,EQ-SB-05,2026-03-26,Preventive,39.28,2.6,Scheduled inspection & lubrication
+MT00203,EQ-SB-01,2026-03-28,Preventive,28.66,2.2,Scheduled inspection & lubrication
+MT00204,EQ-EL-02,2026-04-01,Preventive,41.59,2.7,Scheduled inspection & lubrication
+MT00205,EQ-TR-06,2026-04-07,Repair,482.78,68.1,Belt replacement
+MT00206,EQ-LT-02,2026-04-07,Preventive,35.5,2.9,Scheduled inspection & lubrication
+MT00207,EQ-SM-01,2026-04-12,Preventive,80.99,1.6,Scheduled inspection & lubrication
+MT00208,EQ-SB-02,2026-04-17,Preventive,33.03,1.1,Scheduled inspection & lubrication
+MT00209,EQ-TR-01,2026-04-18,Preventive,156.57,1.2,Scheduled inspection & lubrication
+MT00210,EQ-TR-03,2026-04-19,Preventive,111.56,2.3,Scheduled inspection & lubrication
+MT00211,EQ-TR-06,2026-04-19,Preventive,144.59,2.9,Scheduled inspection & lubrication
+MT00212,EQ-BR-01,2026-04-25,Preventive,7.31,1.3,Scheduled inspection & lubrication
+MT00213,EQ-RM-03,2026-04-30,Repair,44.02,63.1,Display failure
+MT00214,EQ-TR-04,2026-05-06,Preventive,129.34,1.5,Scheduled inspection & lubrication
+MT00215,EQ-SB-05,2026-05-06,Repair,88.06,26.8,Bearing noise
+MT00216,EQ-SB-04,2026-05-10,Preventive,44.89,2.2,Scheduled inspection & lubrication
+MT00217,EQ-BP-02,2026-05-10,Preventive,12.33,2.4,Scheduled inspection & lubrication
+MT00218,EQ-TR-05,2026-05-10,Preventive,95.17,2.5,Scheduled inspection & lubrication
+MT00219,EQ-SC-01,2026-05-11,Preventive,97.93,2.4,Scheduled inspection & lubrication
+MT00220,EQ-CP-01,2026-05-16,Preventive,54.83,2.3,Scheduled inspection & lubrication
+MT00221,EQ-RM-02,2026-05-16,Preventive,20.82,2.9,Scheduled inspection & lubrication
+MT00222,EQ-EL-01,2026-05-18,Preventive,64.15,1.7,Scheduled inspection & lubrication
+MT00223,EQ-SC-02,2026-05-18,Preventive,75.2,1.2,Scheduled inspection & lubrication
+MT00224,EQ-CC-01,2026-05-20,Preventive,104.9,2.1,Scheduled inspection & lubrication
+MT00225,EQ-LT-01,2026-05-22,Preventive,36.77,3.0,Scheduled inspection & lubrication
+MT00226,EQ-EL-03,2026-05-22,Preventive,47.71,2.9,Scheduled inspection & lubrication
+MT00227,EQ-LP-02,2026-05-24,Preventive,57.33,1.0,Scheduled inspection & lubrication
+MT00228,EQ-BP-01,2026-05-27,Repair,51.7,31.8,Motor fault
+MT00229,EQ-LP-01,2026-06-04,Preventive,57.05,1.8,Scheduled inspection & lubrication
+MT00230,EQ-LT-02,2026-06-05,Repair,95.56,51.2,Belt replacement
+MT00231,EQ-EL-01,2026-06-07,Repair,238.57,28.0,Bearing noise
+MT00232,EQ-CC-02,2026-06-08,Preventive,103.72,2.1,Scheduled inspection & lubrication
+MT00233,EQ-SB-03,2026-06-11,Preventive,39.29,2.8,Scheduled inspection & lubrication
+MT00234,EQ-RM-01,2026-06-11,Preventive,19.08,2.0,Scheduled inspection & lubrication
+MT00235,EQ-RM-03,2026-06-15,Preventive,25.75,2.5,Scheduled inspection & lubrication
+MT00236,EQ-TR-02,2026-06-15,Preventive,108.44,3.0,Scheduled inspection & lubrication
+MT00237,EQ-KB-01,2026-06-19,Preventive,21.53,2.3,Scheduled inspection & lubrication
+MT00238,EQ-SB-05,2026-06-28,Preventive,41.7,1.3,Scheduled inspection & lubrication
+MT00239,EQ-EL-02,2026-07-03,Preventive,41.12,1.5,Scheduled inspection & lubrication
+MT00240,EQ-DB-02,2026-07-03,Preventive,87.49,1.5,Scheduled inspection & lubrication
+MT00241,EQ-SB-01,2026-07-06,Preventive,34.23,3.0,Scheduled inspection & lubrication
+MT00242,EQ-BP-01,2026-07-08,Preventive,11.34,2.1,Scheduled inspection & lubrication
+MT00243,EQ-CC-02,2026-07-09,Repair,335.24,40.4,Cable wear
+MT00244,EQ-SB-02,2026-07-14,Preventive,36.48,3.0,Scheduled inspection & lubrication
+MT00245,EQ-TR-06,2026-07-19,Preventive,119.24,1.6,Scheduled inspection & lubrication
+MT00246,EQ-TR-01,2026-07-26,Preventive,109.66,1.7,Scheduled inspection & lubrication
+MT00247,EQ-TR-03,2026-07-28,Preventive,94.46,2.4,Scheduled inspection & lubrication
+MT00248,EQ-SM-01,2026-07-29,Repair,212.62,27.0,Cable wear
+MT00249,EQ-SQ-03,2026-08-01,Preventive,34.2,1.5,Scheduled inspection & lubrication
+MT00250,EQ-SM-01,2026-08-03,Preventive,48.45,1.5,Scheduled inspection & lubrication
+MT00251,EQ-TR-04,2026-08-03,Preventive,123.9,1.7,Scheduled inspection & lubrication
+MT00252,EQ-LT-02,2026-08-03,Preventive,44.78,1.6,Scheduled inspection & lubrication
+MT00253,EQ-SC-01,2026-08-03,Preventive,84.69,2.8,Scheduled inspection & lubrication
+MT00254,EQ-SC-01,2026-08-11,Repair,285.17,43.0,Motor fault
+MT00255,EQ-DB-01,2026-08-13,Preventive,86.92,2.4,Scheduled inspection & lubrication
+MT00256,EQ-TR-05,2026-08-17,Preventive,108.36,1.3,Scheduled inspection & lubrication
+MT00257,EQ-SB-04,2026-08-17,Preventive,39.07,2.3,Scheduled inspection & lubrication
+MT00258,EQ-EL-01,2026-08-19,Preventive,50.62,1.7,Scheduled inspection & lubrication
+MT00259,EQ-EL-03,2026-08-21,Preventive,46.57,1.7,Scheduled inspection & lubrication
+MT00260,EQ-SC-02,2026-08-25,Preventive,60.7,1.2,Scheduled inspection & lubrication
+MT00261,EQ-BP-03,2026-08-25,Preventive,13.21,2.5,Scheduled inspection & lubrication
+MT00262,EQ-SQ-01,2026-08-25,Preventive,27.78,1.2,Scheduled inspection & lubrication
+MT00263,EQ-EL-02,2026-08-25,Repair,209.22,43.6,Sensor calibration
+MT00264,EQ-RM-02,2026-09-04,Preventive,30.27,2.3,Scheduled inspection & lubrication
+MT00265,EQ-CP-01,2026-09-05,Preventive,71.43,2.3,Scheduled inspection & lubrication
+MT00266,EQ-TR-06,2026-09-10,Repair,432.17,58.1,Motor fault
+MT00267,EQ-SQ-02,2026-09-10,Preventive,29.01,2.1,Scheduled inspection & lubrication
+MT00268,EQ-TR-02,2026-09-10,Preventive,113.74,2.0,Scheduled inspection & lubrication
+MT00269,EQ-TR-02,2026-09-10,Repair,572.2,7.4,Display failure
+MT00270,EQ-LT-01,2026-09-17,Preventive,44.54,1.3,Scheduled inspection & lubrication
+MT00271,EQ-LP-02,2026-09-17,Preventive,76.05,1.1,Scheduled inspection & lubrication
+MT00272,EQ-SB-05,2026-09-17,Preventive,23.22,2.9,Scheduled inspection & lubrication
+MT00273,EQ-SB-03,2026-09-19,Preventive,35.24,2.7,Scheduled inspection & lubrication
+MT00274,EQ-TR-02,2026-09-23,Repair,466.48,41.9,Display failure
+MT00275,EQ-CC-01,2026-09-26,Preventive,72.99,2.7,Scheduled inspection & lubrication
+MT00276,EQ-CC-01,2026-09-30,Repair,186.2,33.4,Sensor calibration
+MT00277,EQ-SB-01,2026-10-01,Preventive,40.92,1.7,Scheduled inspection & lubrication
+MT00278,EQ-CC-02,2026-10-07,Preventive,55.45,2.5,Scheduled inspection & lubrication
+MT00279,EQ-EL-02,2026-10-07,Preventive,38.52,1.0,Scheduled inspection & lubrication
+MT00280,EQ-LP-01,2026-10-10,Preventive,70.91,1.8,Scheduled inspection & lubrication
+MT00281,EQ-RM-03,2026-10-10,Preventive,31.47,2.0,Scheduled inspection & lubrication
+MT00282,EQ-SB-02,2026-10-14,Preventive,43.35,1.1,Scheduled inspection & lubrication
+MT00283,EQ-RM-01,2026-10-17,Preventive,23.94,2.6,Scheduled inspection & lubrication
+MT00284,EQ-TR-06,2026-10-18,Preventive,132.81,2.1,Scheduled inspection & lubrication
+MT00285,EQ-TR-04,2026-10-22,Repair,575.46,33.4,Sensor calibration
+MT00286,EQ-TR-01,2026-10-23,Preventive,96.44,2.5,Scheduled inspection & lubrication
+MT00287,EQ-TR-03,2026-10-24,Preventive,153.16,1.2,Scheduled inspection & lubrication

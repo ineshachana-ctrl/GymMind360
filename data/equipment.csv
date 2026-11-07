@@ -1,0 +1,39 @@
+equipment_id,name,equipment_type,category,zone,brand,purchase_date,purchase_cost,service_interval_days
+EQ-TR-01,Treadmill #1,Treadmill,Cardio,Cardio Zone,Matrix,2023-11-01,6500.0,90
+EQ-TR-02,Treadmill #2,Treadmill,Cardio,Cardio Zone,Matrix,2021-11-09,6500.0,90
+EQ-TR-03,Treadmill #3,Treadmill,Cardio,Cardio Zone,Precor,2023-09-30,6500.0,90
+EQ-TR-04,Treadmill #4,Treadmill,Cardio,Cardio Zone,Life Fitness,2020-09-17,6500.0,90
+EQ-TR-05,Treadmill #5,Treadmill,Cardio,Cardio Zone,Precor,2023-01-22,6500.0,90
+EQ-TR-06,Treadmill #6,Treadmill,Cardio,Cardio Zone,Technogym,2022-08-01,6500.0,90
+EQ-SB-01,Spin Bike #1,Spin Bike,Cardio,Cycling Studio,Life Fitness,2022-04-23,1800.0,90
+EQ-SB-02,Spin Bike #2,Spin Bike,Cardio,Cycling Studio,Matrix,2023-08-16,1800.0,90
+EQ-SB-03,Spin Bike #3,Spin Bike,Cardio,Cycling Studio,Technogym,2021-07-25,1800.0,90
+EQ-SB-04,Spin Bike #4,Spin Bike,Cardio,Cycling Studio,Eleiko,2024-01-18,1800.0,90
+EQ-SB-05,Spin Bike #5,Spin Bike,Cardio,Cycling Studio,Matrix,2021-03-11,1800.0,90
+EQ-RM-01,Rowing Machine #1,Rowing Machine,Cardio,Cardio Zone,Eleiko,2023-09-28,1400.0,120
+EQ-RM-02,Rowing Machine #2,Rowing Machine,Cardio,Cardio Zone,Precor,2023-11-26,1400.0,120
+EQ-RM-03,Rowing Machine #3,Rowing Machine,Cardio,Cardio Zone,Matrix,2023-08-16,1400.0,120
+EQ-EL-01,Elliptical #1,Elliptical,Cardio,Cardio Zone,Technogym,2023-12-11,3200.0,90
+EQ-EL-02,Elliptical #2,Elliptical,Cardio,Cardio Zone,Precor,2023-01-28,3200.0,90
+EQ-EL-03,Elliptical #3,Elliptical,Cardio,Cardio Zone,Eleiko,2020-07-09,3200.0,90
+EQ-SC-01,Stair Climber #1,Stair Climber,Cardio,Cardio Zone,Eleiko,2022-08-14,4800.0,90
+EQ-SC-02,Stair Climber #2,Stair Climber,Cardio,Cardio Zone,Precor,2021-10-22,4800.0,90
+EQ-SQ-01,Squat Rack #1,Squat Rack,Strength,Free Weights,Precor,2020-12-11,1600.0,180
+EQ-SQ-02,Squat Rack #2,Squat Rack,Strength,Free Weights,Eleiko,2022-04-15,1600.0,180
+EQ-SQ-03,Squat Rack #3,Squat Rack,Strength,Free Weights,Life Fitness,2021-01-18,1600.0,180
+EQ-BP-01,Bench Press #1,Bench Press,Strength,Free Weights,Matrix,2023-07-21,900.0,180
+EQ-BP-02,Bench Press #2,Bench Press,Strength,Free Weights,Matrix,2023-10-10,900.0,180
+EQ-BP-03,Bench Press #3,Bench Press,Strength,Free Weights,Life Fitness,2020-02-12,900.0,180
+EQ-DB-01,Dumbbell Station #1,Dumbbell Station,Strength,Free Weights,Life Fitness,2022-05-01,3500.0,180
+EQ-DB-02,Dumbbell Station #2,Dumbbell Station,Strength,Free Weights,Life Fitness,2020-01-31,3500.0,180
+EQ-CC-01,Cable Crossover #1,Cable Crossover,Strength,Machines,Life Fitness,2020-03-04,4200.0,120
+EQ-CC-02,Cable Crossover #2,Cable Crossover,Strength,Machines,Precor,2022-09-23,4200.0,120
+EQ-LP-01,Leg Press #1,Leg Press,Strength,Machines,Matrix,2021-09-09,3800.0,120
+EQ-LP-02,Leg Press #2,Leg Press,Strength,Machines,Matrix,2020-08-17,3800.0,120
+EQ-LT-01,Lat Pulldown #1,Lat Pulldown,Strength,Machines,Technogym,2023-07-31,2600.0,120
+EQ-LT-02,Lat Pulldown #2,Lat Pulldown,Strength,Machines,Eleiko,2023-10-28,2600.0,120
+EQ-SM-01,Smith Machine #1,Smith Machine,Strength,Machines,Life Fitness,2023-06-06,3900.0,120
+EQ-CP-01,Chest Press Machine #1,Chest Press Machine,Strength,Machines,Eleiko,2021-12-07,2900.0,120
+EQ-LC-01,Leg Curl Machine #1,Leg Curl Machine,Strength,Machines,Matrix,2020-03-15,2700.0,120
+EQ-KB-01,Kettlebell Set #1,Kettlebell Set,Functional,Functional Area,Technogym,2022-03-30,900.0,365
+EQ-BR-01,Battle Ropes #1,Battle Ropes,Functional,Functional Area,Technogym,2020-01-31,300.0,365
