@@ -6,13 +6,12 @@
 
 <div align="center">
 
-**[NOM DE L'UNIVERSITÉ]**
-**[Faculté / Département]**
-**[Intitulé de la formation — ex. Master Informatique, parcours Data Science]**
+ESSCT - TUNIS
+LICENCE INFORMATIQUE DE GESTION - EBUSINESS
+
 
 <br>
 
-[Logo de l'université]
 
 <br><br>
 
@@ -23,18 +22,15 @@
 
 <br>
 
-**Rapport de projet universitaire**
+**Rapport de projet universitaire - facultative**
 
 <br>
 
 | | |
 |---|---|
-| **Réalisé par** | [Prénom NOM] — [Numéro étudiant] |
-| | [Prénom NOM] — [Numéro étudiant] *(le cas échéant)* |
-| **Encadré par** | [Titre Prénom NOM] — [Fonction / Laboratoire] |
-| **Module / Unité d'enseignement** | [Intitulé du module] |
+| **Réalisé par** | Hachana Ines|
 | **Année universitaire** | [2026 – 2027] |
-| **Date de soumission** | [JJ/MM/AAAA] |
+| **Date de soumission** | [09/10/2026] |
 
 </div>
 
